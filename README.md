@@ -296,6 +296,7 @@ moment('2017-01-01').holidaysBetween();
 
 ### Available Locales/Regions
 * [Argentina](locale/argentina.js)
+* [Austria](locale/austria.js)
 * [Canada](locale/canada.js)
   * `Canada/AB` - Alberta
   * `Canada/BC` - British Columbia
