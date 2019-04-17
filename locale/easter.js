@@ -16,10 +16,10 @@
       date: 'easter-3',
       keywords_y: ['maundy', 'thursday']
     },
-    "Good Friday": {
-      date: 'easter-2',
-      keywords_y: ['good', 'friday']
-    },
+    // "Good Friday": {
+    //   date: 'easter-2',
+    //   keywords_y: ['good', 'friday']
+    // },
     "Holy Saturday": {
       date: 'easter-1',
       keywords_y: ['holy', 'saturday']

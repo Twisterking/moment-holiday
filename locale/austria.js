@@ -10,10 +10,10 @@
       date: '1/1',
       keywords: ['new', 'year']
     },
-    "Karfreitag": {
-      date: 'easter-2',
-      keywords: ['good', 'friday']
-    },
+    // "Karfreitag": {
+    //   date: 'easter-2',
+    //   keywords: ['good', 'friday']
+    // },
     "Ostersonntag": {
       date: 'easter',
       keywords: ['easter']
